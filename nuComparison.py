@@ -41,7 +41,7 @@ population_2020 = population_data[(population_data['Time'] == 2020) & (populatio
 Define Wave, and filter data for said wave
 """
 wave1 = True
-# wave1 = False
+wave1 = False
 
 if(wave1==True):
     wave_start = '2020-03-01'
